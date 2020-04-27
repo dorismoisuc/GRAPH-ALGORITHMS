@@ -1,0 +1,3 @@
+Cannot generate a graph with 6 vertices and 40 edges because the 
+Maximum number of edges is (n)*(n-1) vertices which is
+6*(6-1) = 6*5 = 30 edges. 
