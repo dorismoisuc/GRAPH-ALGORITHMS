@@ -1,0 +1,6 @@
+http://www.cs.ubbcluj.ro/~rlupsa/edu/grafe/lab3.html
+
+6. Write a program that, given a graph with costs and two vertices,
+finds a lowest cost walk between the given vertices, 
+or prints a message if there are negative cost cycles in the graph. 
+The program shall use the matrix multiplication algorithm.
